@@ -4,8 +4,7 @@
   "description": "A application for Formic's 24Charts for who prefer an actual program",
   "main": "main.js",
   "scripts": {
-    "start": "electron .",
-    "dist": "electron-builder"
+    "start": "electron ."
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
@@ -25,3 +24,4 @@
     "electron-cookies": "^1.1.0"
   }
 }
+
